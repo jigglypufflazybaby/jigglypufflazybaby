@@ -1,4 +1,6 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Riya ! 👋
+( You can call me riri )
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jigglypufflazybaby&color=blue)
 

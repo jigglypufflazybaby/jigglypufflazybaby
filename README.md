@@ -30,8 +30,8 @@ Feel free to reach out if you have questions or need help with these topics!
 
 ## 📫 How to Reach Me
 
-- **Email**: [your.email@example.com](mailto:riyasudrik03@gmail.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/riya-sudrik-aaa343247/)
+- **Email**: [riyasudrik03@gmail.com](mailto:riyasudrik03@gmail.com)
+- **LinkedIn**: [https://www.linkedin.com/in/riya-sudrik-aaa343247/](https://www.linkedin.com/in/riya-sudrik-aaa343247/)
 
 ## 📈 GitHub Stats
 
@@ -46,6 +46,8 @@ Feel free to reach out if you have questions or need help with these topics!
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
 
 ## ⚡ Fun Fact
 

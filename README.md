@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I am a Computer Science Student currently in my final year of engineering. I love learning new technologies and being updated with the same. I enjoy working on projects related to big data,web development, data science and I find joy in collaborating with others to learn and grow together.
+I am a Computer Science Student currently in my final year of engineering. I love learning new technologies and being updated with the same. I enjoy working on projects related to web development, data science,big data,artificial intelligence and I find joy in collaborating with others to learn and grow together.
 
 
 ## 🌱 Learning and Development

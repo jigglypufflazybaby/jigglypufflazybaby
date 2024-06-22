@@ -51,7 +51,12 @@ Feel free to reach out if you have questions or need help with these topics!
 
 ## ⚡ Fun Fact
 
-Here’s a fun fact about me: [My favourite color is green and I love Classic English Literature].
+Here’s a fun fact about me: My favourite color is green and I love Classic English Literature.
+
+✩°𓏲⋆🌿. ⋆⸜ 🍵✮˚ vibes
+
+
+
 
 ---
 

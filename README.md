@@ -2,7 +2,7 @@
 ( You can call me riri )
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=jigglypufflazybaby&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=jigglypufflazybaby&color=pink)
 
 ## 🚀 About Me
 

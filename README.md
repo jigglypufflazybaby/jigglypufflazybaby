@@ -55,6 +55,8 @@ Here’s a fun fact about me: My favourite color is green and I love Classic Eng
 
 ✩°𓏲⋆🌿. ⋆⸜ 🍵✮˚ vibes
 
+![Dinosaur Game](dinosaur_game.gif)
+
 
 
 

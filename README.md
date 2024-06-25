@@ -57,7 +57,7 @@ Here’s a fun fact about me: My favourite color is green and I love Classic Eng
 
 ## 🐱‍👤 Cat Animation
 
-![Cat Animation](https://i.gifer.com/1alx.gif)
+![Cat Animation](https://i.gifer.com/1alx.mp4)
 
 
 

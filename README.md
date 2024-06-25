@@ -55,7 +55,7 @@ Here’s a fun fact about me: My favourite color is green and I love Classic Eng
 
 ✩°𓏲⋆🌿. ⋆⸜ 🍵✮˚ vibes
 
-![Dinosaur Game](dinosaur_game.gif)
+![Dinosaur Game](<iframe src="https://giphy.com/embed/S3thLnRWEpRwq6iDIO" width="480" height="432" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/metadigital-meta-web-design-digital-S3thLnRWEpRwq6iDIO">via GIPHY</a></p>)
 
 
 

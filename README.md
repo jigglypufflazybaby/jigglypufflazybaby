@@ -1,32 +1,32 @@
 # Hi there, I'm Riya ! 👋
-( You can call me riri )
+( You can call me ri )
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jigglypufflazybaby&color=green)
 
 ## 🚀 About Me
 
-I am a Computer Science Student currently in my final year of engineering. I love learning new technologies and being updated with the same. I enjoy working on projects related to web development, data science,big data,artificial intelligence and I find joy in collaborating with others to learn and grow together.
+Professionally making GPUs sweat.
+
+Software Engineer @ Dassault Systèmes, building AI solutions that (usually) behave. I spend my days wrangling LLMs, shipping features, debugging things that worked five minutes ago, and pretending the cloud bill isn't my problem.
+
+Outside of work, I'm always experimenting with AI, building side projects, and learning whatever shiny new technology caught my attention this week.
 
 
 ## 🌱 Learning and Development
 
 I’m currently learning:
-- Java
-- R 
+- Context Engineering
+- Model Context Protocol (MCP)
 
 ## 💬 Ask Me About
 
-I have experience in:
-- HTML
-- CSS
-- JS
-- MySQL
-- PHP
+- AI
+- Backend Engineering
+- LLMs
 - Python
-- C++
-
-Feel free to reach out if you have questions or need help with these topics!
+- APIs
+- System Design
 
 ## 📫 How to Reach Me
 
@@ -40,13 +40,42 @@ Feel free to reach out if you have questions or need help with these topics!
 
 ## 💼 Skills and Tools
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+### Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+### AI & Machine Learning
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat)
+![LlamaIndex](https://img.shields.io/badge/-LlamaIndex-7C3AED?style=flat)
+
+### Backend & APIs
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+### Cloud & DevOps
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+
+### Databases & Vector Stores
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Pinecone](https://img.shields.io/badge/-Pinecone-0A7B83?style=flat)
+![Milvus](https://img.shields.io/badge/-Milvus-00A6A6?style=flat)
+
+### AI Platforms
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat)
+![vLLM](https://img.shields.io/badge/-vLLM-8A2BE2?style=flat)
+![Weights & Biases](https://img.shields.io/badge/-Weights%20&%20Biases-FFBE00?style=flat)
 
 
 ## ⚡ Fun Fact
@@ -62,4 +91,4 @@ Here’s a fun fact about me: My favourite color is green and I love Classic Eng
 
 ---
 
-*Thank you for visiting my profile! Have a great day!*
+*May your deploys be green and your GPUs stay cool.*

@@ -1,8 +1,8 @@
+![](https://komarev.com/ghpvc/?username=jigglypufflazybaby&color=blueviolet&style=flat)
 # Hi there, I'm Riya ! 👋
 ( You can call me ri )
 
-
-![Profile Views](https://komarev.com/ghpvc/?username=jigglypufflazybaby&color=green)
+![GitHub Streak](https://streak-stats.demolab.com?user=jigglypufflazybaby&theme=radical)
 
 ## 🚀 About Me
 
@@ -32,10 +32,6 @@ I’m currently learning:
 
 - **Email**: [riyasudrik03@gmail.com](mailto:riyasudrik03@gmail.com)
 - **LinkedIn**: [https://www.linkedin.com/in/riya-sudrik-aaa343247/](https://www.linkedin.com/in/riya-sudrik-aaa343247/)
-
-## 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=jigglypufflazybaby&show_icons=true&theme=radical)
 
 
 ## 💼 Skills and Tools

@@ -2,25 +2,30 @@
 # Hi there, I'm Riya ! 👋
 ( You can call me ri )
 
-![GitHub Streak](https://streak-stats.demolab.com?user=jigglypufflazybaby&theme=radical)
+## 📊 GitHub Stats
+
+
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=jigglypufflazybaby&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/39d353/jigglypufflazybaby" alt="jigglypufflazybaby's contribution graph" />
+</p>
 
 ## 🚀 About Me
-
 Professionally making GPUs sweat.
-
 Software Engineer @ Dassault Systèmes, building AI solutions that (usually) behave. I spend my days wrangling LLMs, shipping features, debugging things that worked five minutes ago, and pretending the cloud bill isn't my problem.
 
 Outside of work, I'm always experimenting with AI, building side projects, and learning whatever shiny new technology caught my attention this week.
 
-
 ## 🌱 Learning and Development
-
 I’m currently learning:
 - Context Engineering
 - Model Context Protocol (MCP)
 
 ## 💬 Ask Me About
-
 - AI
 - Backend Engineering
 - LLMs
@@ -29,13 +34,10 @@ I’m currently learning:
 - System Design
 
 ## 📫 How to Reach Me
-
 - **Email**: [riyasudrik03@gmail.com](mailto:riyasudrik03@gmail.com)
 - **LinkedIn**: [https://www.linkedin.com/in/riya-sudrik-aaa343247/](https://www.linkedin.com/in/riya-sudrik-aaa343247/)
 
-
 ## 💼 Skills and Tools
-
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
@@ -73,18 +75,10 @@ I’m currently learning:
 ![vLLM](https://img.shields.io/badge/-vLLM-8A2BE2?style=flat)
 ![Weights & Biases](https://img.shields.io/badge/-Weights%20&%20Biases-FFBE00?style=flat)
 
-
 ## ⚡ Fun Fact
-
 Here’s a fun fact about me: My favourite color is green and I love Classic English Literature.
 
 ✩°𓏲⋆🌿. ⋆⸜ 🍵✮˚ vibes
 
-
-
-
-
-
 ---
-
 *May your deploys be green and your GPUs stay cool.*

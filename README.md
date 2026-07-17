@@ -54,6 +54,19 @@ Currently deep-diving into building reliable, tool-using AI agents, designing be
 
 <div align="center">
 
+## GitHub Stats
+
+<img src="https://github-stats-extended.vercel.app/api?username=jigglypufflazybaby&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=FF69B4&icon_color=FFB6C1&text_color=FFC0CB" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=jigglypufflazybaby&theme=radical&hide_border=true&background=00000000&ring=FF69B4&fire=FFB6C1&currStreakLabel=FFC0CB" width="49%" />
+
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=jigglypufflazybaby&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=FF69B4&text_color=FFC0CB&langs_count=8" width="49%" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFC0CB,50:FFB6C1,100:FF69B4&height=3&width=100%" width="100%"/>
+
+<div align="center">
+
 ## How to Reach Me
 
 </div>

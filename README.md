@@ -14,15 +14,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFC0CB,50:FFB6C1,100:FF69B4&height=3&width=100%" width="100%"/>
 
-<div align="center">
-<h2>GitHub Stats</h2>
-
-<img src="https://streak-stats.demolab.com?user=jigglypufflazybaby&hide_border=true&background=FFF0F5&ring=FF69B4&fire=FFB6C1&currStreakNum=FF69B4&sideNums=DB7093&currStreakLabel=FF69B4&sideLabels=DB7093&dates=DB7093&border=FFB6C1" />
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFC0CB,50:FFB6C1,100:FF69B4&height=3&width=100%" width="100%"/>
 
 <div align="center">
 
